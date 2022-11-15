@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a post with math
+title: hihihihi
 date: 2022-11-14 11:12:00-0400
 description: an example of a blog post with some math
 tags: formatting math
