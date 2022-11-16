@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.instagram.com/bsflll/'>Affiliations</a>. Beijing/Fremont Find your Intersection!
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Have you been to Alaska? I'm Christina. I've left several questiones for you to think about in this paragraph. I grow up in Beijing, China but have spent 1/3 of my time(before 2021) in Fremont, CA, USA. I love Mathematics, Computer Science and Anthropology(high key)!. I dream to the one at the intersection of science, people, culture and whatever I'm passionate about...(you will hear intersection from me a lot like now). An social media fan bc it's easy to share things or spread things. So learn about my world on [insta](https://www.instagram.com/bsflll/)! 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
