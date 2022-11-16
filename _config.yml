@@ -67,12 +67,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: bsflll # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: "twitter"# your Twitter handle
+twitter_username: bsflll_ # your Twitter handle
 mastodon_username: # your mastodon username
 mastodon_instance: # your mastodon instance
-linkedin_username: # your LinkedIn user name
+linkedin_username: Luoluo (Christina) Li  # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
@@ -92,9 +92,9 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
-discord_id: # your discord id (18-digit unique numerical identifier)
+instagram_id: bsflll # your instagram id
+facebook_id: Luoluo Li # your facebook id
+discord_id: bsflll#7655 # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
