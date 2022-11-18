@@ -28,7 +28,7 @@
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
+      institution: Stanford University Mathematics Summer Camp
       year: 1933 - 1955
       description:
         - Description 1.
@@ -73,7 +73,7 @@
         - USACO Platinum
     - year: 2021
       items: 
-        - AIME qualifier
+        - AMC 12 AIME qualifier, Distinction
 
 - title: Academic Interests
   type: nested_list
