@@ -57,7 +57,9 @@
   contents:
     - title: Operater, Content creator and Co-developer of APP <a href="https://apps.apple.com/nl/app/%E7%94%B0%E9%87%8E%E5%BD%B1%E5%83%8F/id1525849852">Field-Film</a>
       year: 2022-now
-      description: Here we collect field films(usually documentary of live culture) and reverberate them by bringing alive videos from hard drive.
+      description: 
+       - Here we collect field films(usually documentary of folk groups and their traditions) and reverberate them by bringing alive videos from hard drive.
+       - Record your short videos about live culture!
 
 - title: Honors and Awards
   type: time_table
