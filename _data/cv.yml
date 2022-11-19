@@ -4,7 +4,7 @@
     - name: Full Name
       value: CHRISTINA 
     - name: Date of Birth
-      value: 14th FEB 2006
+      value: 13th FEB 2006
     - name: Languages
       value: English, Mandarin
 
@@ -36,7 +36,13 @@
         - title: Skill Developed.
           contents:
             - LaTex.
-            - Avalon, Imposter.
+            - Avalon, Imposter.(social skills needed)
+    - title: Developer
+      institution: Technovation Girls
+      year: 2022
+      description: 
+        - APP development for migrant children
+        - Educational resource & Career planning
     - title: Participant
       institution: ROSS Mathematics program (Online)
       year: 2021
@@ -44,9 +50,6 @@
         - Study the Number Theory and Abstract Algebra.
         - Fun online Gala and topo class are my fav.
 
-    - title: Developer
-      institution: Technovation Girls
-      year: 2022
 
 
 - title: Projects(Not Open Source yet)
