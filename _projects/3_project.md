@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Henan
-description: Social report, Women in 2021 floods, need menstrual products as disaster supply 
+title: project 3
+description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: /assets/pdf/YOC-final report.pdf
+redirect: https://unsplash.com
 importance: 3
 category: work
 ---
