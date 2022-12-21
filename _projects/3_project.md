@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Henan
+description: Social report, Women in 2021 floods, the need of mentrual products as disaster supply 
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: /assets/pdf/YOC-final report.pdf
 importance: 3
 category: work
 ---
